@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require './lib/zip_search' 
+
+ZipSearch::CLI.new.call
+
+
